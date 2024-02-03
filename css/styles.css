@@ -315,13 +315,12 @@ img {
     justify-content: center;
     align-items: center;
     padding: 0 16px;
-    gap: 24px;
-    
 }
 
 .soc-icon-item {
     width: 40px;
     height: 40px;
+    gap: 24px;
 }
 
 .soc-icon-link {
@@ -484,7 +483,6 @@ img {
     color: #F4F4FD;
     font-weight: 500;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5; 
     letter-spacing: 0.02em;
     max-width: 264px;
@@ -526,7 +524,7 @@ img {
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-    background-color: #31d0aa;
+    background-color: #31D0AA;
 }
 
 .footer-soc-icon {
