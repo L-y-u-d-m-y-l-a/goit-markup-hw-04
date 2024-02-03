@@ -500,7 +500,7 @@ img {
 
 .soc-icon-list {
     display: flex;
-    gap: 16px;
+    gap: 24px;
 }
 
 .soc-link {
@@ -524,8 +524,8 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-social-link:hover,
-.footer-social-link:focus {
+.soc-icon-link:hover,
+.soc-icon-link:focus {
     background-color: #31d0aa;
 }
 
