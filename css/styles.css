@@ -315,12 +315,13 @@ img {
     justify-content: center;
     align-items: center;
     padding: 0 16px;
+    gap: 24px;
+    
 }
 
 .soc-icon-item {
     width: 40px;
     height: 40px;
-    gap: 24px;
 }
 
 .team-icon-link {
