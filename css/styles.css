@@ -315,12 +315,12 @@ img {
     justify-content: center;
     align-items: center;
     padding: 0 16px;
+    gap: 24px;
 }
 
 .soc-icon-item {
     width: 40px;
     height: 40px;
-    gap: 24px;
 }
 
 .soc-icon-link {
@@ -481,7 +481,7 @@ img {
 
 .footer-text {
     color: #F4F4FD;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.02em;
@@ -491,6 +491,7 @@ img {
 
 .footer-info {
     color: #FFFFFF;
+    font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
@@ -509,6 +510,7 @@ img {
 .soc-icon-item {
     width: 40px;
     height: 40px;
+    gap: 24px;
 }
 
 .soc-icon-link {
@@ -524,7 +526,7 @@ img {
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-    background-color: #31D0AA;
+    background-color: #31d0aa;
 }
 
 .footer-soc-icon {
